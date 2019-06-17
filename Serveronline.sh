@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #
-# author: bavdu
-# email: bavduer@163.com
-# date: 2019/06/16
+# author: Find
+# email: Find_Ljl@163.com
+# date: 2019/06/17
 # usage: Detect host survivability.
 netip='192.168.161'
 for hostip in $(seq 2 254)
