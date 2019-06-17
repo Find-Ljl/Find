@@ -2,7 +2,7 @@
 #
 # author: Find
 # email: Find_Ljl@163.com
-# date: 2019/06/17
+# date: 2019/06/18
 # usage: Detect host survivability.
 netip='192.168.161'
 for hostip in $(seq 2 254)
@@ -18,3 +18,5 @@ do
 done
 wait
 echo 'Complete OK.'
+
+
